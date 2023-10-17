@@ -1,4 +1,4 @@
-# sg-miner
+# *gpu-miner*
 
 
 ## Introduction
